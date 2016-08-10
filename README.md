@@ -20,4 +20,5 @@ The goal of this project is to have a clean Travis CI build, with specs:
 
 Less complex builds:
  * No code coverage: [travis_qmake_gcc_cpp98_boost_test_debug_and_release](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_boost_test_debug_and_release)
+ * No debug and release mode: [travis_qmake_gcc_cpp98_boost_test_gcov](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_boost_test_gcov)
 
