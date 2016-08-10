@@ -15,3 +15,6 @@ script:
   - ./build_release_test.sh
   - ./get_code_cov.sh
   - codecov
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
