@@ -9,3 +9,7 @@ CONFIG(release, debug|release) {
 
 SOURCES += main.cpp my_functions.cpp
 HEADERS += my_functions.h
+
+# gcov
+QMAKE_CXXFLAGS += -fprofile-arcs -ftest-coverage
+LIBS += -lgcov

@@ -12,7 +12,7 @@ The goal of this project is to have a clean Travis CI build, with specs:
  * C++ compiler: `gcc`
  * C++ version: `C++98`
  * Libraries: `STL` and Boost, demonstrating Boost.Test
- * Code coverage: yes, but this is not yet done
+ * Code coverage: yes
  * Source: multiple files
 
 Less complex builds:

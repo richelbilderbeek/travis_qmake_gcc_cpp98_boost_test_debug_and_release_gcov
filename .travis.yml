@@ -5,8 +5,13 @@ addons:
   apt: 
     packages: libboost-all-dev
 
+before_install: 
+  - sudo pip install codecov
+
 script:
   - ./build_debug.sh
   - ./build_release.sh
   - ./build_debug_test.sh
   - ./build_release_test.sh
+  - ./get_code_cov.sh
+  - codecov
