@@ -9,7 +9,7 @@ SOURCES += main_test.cpp my_functions_test.cpp
 QMAKE_CXXFLAGS += -Wall -Wextra -Weffc++ -Werror
 
 # Debug and release mode
-CONFIG += console debug_and_release
+CONFIG += debug_and_release
 CONFIG(release, debug|release) {
   DEFINES += NDEBUG
 }
