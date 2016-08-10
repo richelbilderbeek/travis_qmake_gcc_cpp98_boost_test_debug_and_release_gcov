@@ -7,3 +7,4 @@ done
 cd debug
 mv *.gcno ../
 mv *.gcda ../
+mv *.o ../
