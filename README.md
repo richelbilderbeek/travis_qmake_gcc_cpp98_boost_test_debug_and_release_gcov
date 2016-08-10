@@ -5,7 +5,7 @@
 [![Codecov logo](Codecov.png)](https://www.codecov.io)
 
 [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_boost_test_debug_and_release_gcov.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp98_boost_test_debug_and_release_gcov)
-[![codecov.io](https://codecov.io/github/richelbilderbeek/travis_qmake_gcc_cpp98_boost_test_test_debug_and_release_gcov/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/travis_qmake_gcc_cpp98_boost_test_test_debug_and_release_gcov?branch=master)
+[![codecov.io](https://codecov.io/github/richelbilderbeek/travis_qmake_gcc_cpp98_boost_test_debug_and_release_gcov/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/travis_qmake_gcc_cpp98_boost_test_debug_and_release_gcov?branch=master)
 
 This GitHub is part of [the Travis C++ Tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial).
 
